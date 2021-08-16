@@ -523,6 +523,14 @@ footer .container .contatc  .logo a{
 
     @media (max-width: 479px) {
     /* start of phone styles */
+        .attribution {
+    font-size: 11px;
+    text-align: center;
+    font-size: 11px;
+    text-align: center;
+    transform: translateY(611px);
+            COLOR: WHITE;}
+        
     .header .container {
         display: flex;
         justify-content: center;
