@@ -510,6 +510,14 @@ footer .container .contatc  .logo a{
         max-width: 100%;
         margin-right: 0;
     }
+        .attribution {
+    font-size: 11px;
+    text-align: center;
+    font-size: 11px;
+    text-align: center;
+    transform: translateY(611px);
+    COLOR: WHITE;
+}
     
 }
 
@@ -604,6 +612,14 @@ footer .container .contatc  .logo a{
     .landiang2 .container img {
         max-width: 80%;
     }
+        .attribution {
+    font-size: 11px;
+    text-align: center;
+    font-size: 11px;
+    text-align: center;
+    transform: translateY(611px);
+    COLOR: WHITE;
+}
 
     }
 
